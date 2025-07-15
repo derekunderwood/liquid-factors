@@ -10,7 +10,7 @@ Based on work from Rosenthal, [Liquid Factor Models](https://papers.ssrn.com/sol
 | `R2KSPX`     | Size factor: Russell 2000 minus S&P 500 returns   |
 | `R1KVMG`     | Value factor: Russell 1000 Value minus Growth     |
 | `Momentum`   | 12-month momentum of SPY                          |
-| `YCLevel`    | Change in average yield across 3M--30Y Treasuries |
+| `YCLevel`    | Change in average yield across 3M-30Y Treasuries  |
 | `YCSlope`    | Change in average slope (30Y - 3M and 10Y - 2Y)   |
 | `YCBump`     | Change in curvature: (30Y - 5Y) minus (5Y - 3M)   |
 | `IG10`       | Investment-grade credit excess return over 10Y    |
